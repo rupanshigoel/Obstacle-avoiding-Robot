@@ -1,1 +1,1 @@
-An inventory system for a bookstore to manage books. The user can add a book via multiple options, store multiple authors for each book, update a book's price or quantity, get information on a specific book, and check the inventory of the entire stock.
+Implemented an obstacle avoidance robot. It uses an ultrasonic sensor to detect obstacles, prompting the robot to stop, move backward, turn, and then continue forward if an obstacle is within 30 cm.
